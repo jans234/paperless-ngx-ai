@@ -22,3 +22,27 @@ This is a custom clone of Paperless-NGX, a modern document management system (DM
 ![Configuration](https://github.com/jans234/paperless-ngx-ai/blob/main/2025-06-24%2010-27-46.mkv)
 
 
+🚀 Features
+🧠 OCR for scanned documents to extract readable text.
+
+🔍 Full-text search and powerful document filtering options.
+
+🏷️ Auto-tagging and intelligent document categorization.
+
+🌐 Web-based interface for easy access and interaction.
+
+🐳 Docker-based deployment for quick and isolated setup.
+
+🤖 RAG Chat to ask natural language questions across all documents.
+
+📄 Playground (Single Document Analysis) for deep-dive Q&A on one file.
+
+🧠 Dual AI backend support: OpenAI API or local models via Ollama.
+
+🔒 Offline-friendly mode for private, local document analysis.
+
+⚙️ Custom token and model control for advanced configuration.
+
+
+
+
