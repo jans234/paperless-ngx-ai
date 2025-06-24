@@ -10,5 +10,8 @@ This is a custom clone of Paperless-NGX, a modern document management system (DM
 # Paperless-ai Dashboard
 ![paperless-ai](https://github.com/jans234/paperless-ngx-ai/blob/main/paperless-ai%20dashboard.png)
 
+# Document Preview
+![preview](https://github.com/jans234/paperless-ngx-ai/blob/main/document-preview.png)
+
 
 
