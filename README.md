@@ -22,6 +22,7 @@ This is a custom clone of Paperless-NGX, a modern document management system (DM
 ![Configuration](https://github.com/jans234/paperless-ngx-ai/blob/main/2025-06-24%2010-27-46.mkv)
 
 
+
 # 🚀Features
 
 🧠 OCR for scanned documents to extract readable text.
