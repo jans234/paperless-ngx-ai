@@ -4,6 +4,9 @@ This is a custom clone of Paperless-NGX, a modern document management system (DM
 # Paperless Dashbored
 ![dashboard](https://github.com/jans234/paperless-ngx-ai/blob/main/paperless%20dashboard.png)
 
+# Documents
+
+
 
 
 
