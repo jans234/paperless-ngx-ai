@@ -15,6 +15,7 @@ This is a custom clone of Paperless-NGX, a modern document management system (DM
 
 # Chat With Document
 ![Demo vedio](https://github.com/jans234/paperless-ngx-ai/blob/main/2025-06-24%2010-23-13.mkv)
+![Demo Picture]
 
 
 
