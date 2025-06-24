@@ -5,8 +5,7 @@ This is a custom clone of Paperless-NGX, a modern document management system (DM
 ![dashboard](https://github.com/jans234/paperless-ngx-ai/blob/main/paperless%20dashboard.png)
 
 # Documents
-
-
+![document](https://github.com/jans234/paperless-ngx-ai/blob/main/document.png)
 
 
 
