@@ -45,6 +45,17 @@ This is a custom clone of Paperless-NGX, a modern document management system (DM
 
 ⚙️ Custom token and model control for advanced configuration.
 
+## 🛠️ Getting Started (Docker)
+
+These instructions will help you set up the project locally using Docker.
+
+### 1. Clone the Repository
+```bash
+git clone https://github.com/jans234/paperless_ngx.git
+cd paperless_ngx
+docker compose up -d
+
+
 
 
 
